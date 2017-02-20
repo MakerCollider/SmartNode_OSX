@@ -14,6 +14,6 @@ If you already have Node.js installed,run:
 
 ```bash
 $ cd  SmartNode_OSX/smartnode-mac
-# node red
+$ node red
 
 ```
