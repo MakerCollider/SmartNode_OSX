@@ -1,0 +1,1 @@
+[{"input":{"distance":0.1,"roll":0.2,"way":0.1},"output":{"cate1":1}},{"input":{"distance":0.9,"roll":0.1,"way":0.1},"output":{"cate2":1}},{"input":{"distance":0.4,"roll":0.3,"way":0.1},"output":{"cate2":1}}]
