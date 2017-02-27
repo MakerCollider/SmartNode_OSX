@@ -9,6 +9,7 @@ SmartNode for OSX
 Download SmartNode_OSX.
 
 install nodejs v0.10.48.
+https://nodejs.org/download/release/v0.10.48/node-v0.10.48.pkg
 
 If you already have Node.js installed,run:
 
